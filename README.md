@@ -15,7 +15,7 @@
       📺 Minhas séries preferidas são: The Office (US), Breaking Bad e Dark 
       🐈 Tenho dois gatos (Elis e Chico), mas se pudesse eu tinha mais 30! hehe
    
-  </h4>
+  
   
   Tecnologias:
   
@@ -29,6 +29,7 @@
   Contato:
   <a href="https://www.linkedin.com/in/kayla-deodato/"> Linkedin </a><br>
   
+ </h4>
   
 ##
 
