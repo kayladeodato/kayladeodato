@@ -1,17 +1,19 @@
 <h1 align=center> Hello World! 👋 </h1> 
  
   <h4>
+     
+ 
       Sobre mim:
  
-      😃 Sou a Kayla <br>
-      🖥️ Cursando Análise e Desenvolvimento de Sistemas (3º semestre)<br>
-      💼 Estou em transição de carreira, mas já atuei com Planejamento Financeiro, Controladoria e Negócios <br><br>
+      😃 Sou a Kayla
+      🖥️ Cursando Análise e Desenvolvimento de Sistemas (3º semestre)
+      💼 Estou em transição de carreira, mas já atuei com Planejamento Financeiro, Controladoria e Negócios 
 
       Interesses:
  
-      📖 Adoro ler, principalmente leituras nada óbvias e que me tiram da zona de conforto <br>
-      📺 Minhas séries preferidas são: The Office (US), Breaking Bad e Dark <br>
-      🐈 Tenho dois gatos (Elis e Chico), mas se pudesse eu tinha mais 30! hehe<br>
+      📖 Adoro ler, principalmente leituras nada óbvias e que me tiram da zona de conforto 
+      📺 Minhas séries preferidas são: The Office (US), Breaking Bad e Dark 
+      🐈 Tenho dois gatos (Elis e Chico), mas se pudesse eu tinha mais 30! hehe
    
   </h4>
   
