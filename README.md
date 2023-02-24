@@ -12,7 +12,7 @@
       Interesses:
  
       📖 Adoro ler, principalmente leituras nada óbvias e que me tiram da zona de conforto;
-      📺 Minhas séries preferidas são: The Office (US), Breaking Bad e Dark;
+      📺 Minhas séries preferidas são: The Office (US), Breaking Bad, The Big Bang Theory e Dark;
       🐈 Tenho dois gatos (Elis e Chico), mas se pudesse eu tinha mais 30! hehe;
    
   
