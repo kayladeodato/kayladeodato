@@ -14,6 +14,7 @@
       📖 Adoro ler, principalmente leituras nada óbvias e que me tiram da zona de conforto;
       📺 Minhas séries preferidas são: The Office (US), Breaking Bad, The Big Bang Theory e Dark;
       🐈 Tenho dois gatos (Elis e Chico), mas se pudesse eu tinha mais 30! hehe;
+ _______________________________________________________________________________________________________________________________________________________________
  
       About me:
  
@@ -21,7 +22,7 @@
       🖥️ Studying Analisys and Systems Development (3th semester);
       💼 I'm in career transition, but I already worked with Financial Planning, Controllership and Business;
 
-      Interesses:
+      Interestings:
  
       📖 I enjoy reading, mostly non-obvious readings that take me out of my comfort zone;
       📺 My favorite series are: The Office (US), Breaking Bad, The Big Bang Theory and Dark;
