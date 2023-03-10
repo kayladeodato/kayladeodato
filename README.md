@@ -7,7 +7,8 @@
  
       😃 Sou a Kayla!
       🖥️ Cursando Análise e Desenvolvimento de Sistemas (3º semestre);
-      💼 Estou em transição de carreira, mas já atuei com Planejamento Financeiro, Controladoria e Negócios;
+      💼 Estou em transição de carreira, mas já atuei com Planejamento Financeiro, 
+      Controladoria e Negócios;
 
       Interesses:
  
@@ -20,7 +21,8 @@
  
       😃 I'm Kayla!
       🖥️ Studying Analisys and Systems Development (3th semester);
-      💼 I'm in career transition, but I already worked with Financial Planning, Controllership and Business;
+      💼 I'm in career transition, but I already worked with Financial Planning, 
+      Controllership and Business;
 
       Interestings:
  
