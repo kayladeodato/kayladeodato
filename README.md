@@ -1,6 +1,6 @@
 <h1 align=center> Hello World! 👋 </h1> 
  
-  <h4>
+  <h3>
      
  
       Sobre mim:
@@ -42,7 +42,7 @@
   Contato:
   <a href="https://www.linkedin.com/in/kayla-deodato/"> Linkedin </a><br>
   
- </h4>
+ </h3>
   
 ##
 
