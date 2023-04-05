@@ -1,29 +1,26 @@
 <h1 align=center> Hello World! 👋 </h1> 
  
-  <h3>
-     
- 
-  **Sobre mim**:
+  **Sobre mim**:<br>
 
-  😃 Sou a Kayla!
-  🖥️ Cursando Análise e Desenvolvimento de Sistemas (3º semestre);
+  😃 Sou a Kayla!<br>
+  🖥️ Cursando Análise e Desenvolvimento de Sistemas (3º semestre);<br>
   💼 Estou em transição de carreira, mas já atuei com Planejamento Financeiro, 
-  Controladoria e Negócios;
+  Controladoria e Negócios;<br>
 
-  Interesses:
+  Interesses:<br>
 
-  📖 Adoro ler, principalmente leituras nada óbvias e que me tiram da zona de conforto;
-  📺 Minhas séries preferidas são: The Office (US), Breaking Bad, The Big Bang Theory e Dark;
-  🐈 Tenho dois gatos (Elis e Chico), mas se pudesse eu tinha mais 30! hehe;
+  📖 Adoro ler, principalmente leituras nada óbvias e que me tiram da zona de conforto;<br>
+  📺 Minhas séries preferidas são: The Office (US), Breaking Bad, The Big Bang Theory e Dark;<br>
+  🐈 Tenho dois gatos (Elis e Chico), mas se pudesse eu tinha mais 30! hehe;<br>
 
 ------------
 
-**About me:**
+**About me:**<br>
 
-  😃 I'm Kayla!
-  🖥️ Studying Analisys and Systems Development (3th semester);
-  💼 I'm in career transition, but I already worked with Financial Planning, 
-  Controllership and Business;
+  😃 I'm Kayla!<br>
+  🖥️ Studying Analisys and Systems Development (3th semester);<br>
+  💼 I'm in career transition, but I already worked with Financial Planning, <br>
+  Controllership and Business;<br>
   
   Tecnologias:
   
@@ -36,8 +33,6 @@
   
   Contato:
   <a href="https://www.linkedin.com/in/kayla-deodato/"> Linkedin </a><br>
-  
- </h3>
   
 ##
 
