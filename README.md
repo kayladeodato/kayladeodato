@@ -48,5 +48,5 @@
   
 ##
 
-<!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayladeodato&show_icons=true&theme=omni&hide=contribs,prs)-->
-<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayladeodato&layout=compact&theme=omni)-->
+<[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayladeodato&show_icons=true&theme=omni&hide=contribs,prs)
+<[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayladeodato&layout=compact&theme=omni)
