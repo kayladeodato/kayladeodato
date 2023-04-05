@@ -3,7 +3,7 @@
   **Sobre mim**:<br>
 
   😃 Sou a Kayla!<br>
-  🖥️ Cursando Análise e Desenvolvimento de Sistemas (3º semestre);<br>
+  🖥️ Cursando Análise e Desenvolvimento de Sistemas (1º semestre);<br>
   💼 Estou em transição de carreira, mas já atuei com Planejamento Financeiro, 
   Controladoria e Negócios;<br>
 
@@ -18,7 +18,7 @@
 **About me:**<br>
 
   😃 I'm Kayla!<br>
-  🖥️ Studying Analisys and Systems Development (3th semester);<br>
+  🖥️ Studying Analisys and Systems Development (1st semester);<br>
   💼 I'm in career transition, but I already worked with Financial Planning, <br>
   Controllership and Business;<br>
   
