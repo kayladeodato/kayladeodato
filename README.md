@@ -48,5 +48,10 @@
   
 ##
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayladeodato&show_icons=true&theme=omni&hide=contribs,prs)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayladeodato&layout=compact&theme=omni)
+<br>
+<div align="center">
+  <div align="center">
+    <a href="https://github.com/kayladeodato">
+    <img decoding="async" loading="lazy" height="170em" src="https://github-readme-stats-74zg.vercel.app/api?username=AleehSophia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=AleehSophia&layout=compact&langs_count=10&theme=tokyonight"/>
+  </div>
