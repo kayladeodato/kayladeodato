@@ -22,6 +22,12 @@
   💼 I'm in career transition, but I already worked with Financial Planning, <br>
   Controllership and Business;<br>
   
+ Interestings:<br>
+
+  📖 I enjoy reading, mostly non-obvious readings that take me out of my comfort zone;<br>
+  📺 My favorite series are: The Office (US), Breaking Bad, The Big Bang Theory and Dark;<br>
+  🐈 I have two cats (Elis e Chico), but if I could, I would've a looot!<br>
+  
   Tecnologias:
   
   <p align="left">
