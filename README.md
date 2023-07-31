@@ -3,9 +3,9 @@
   **Sobre mim**:<br>
 
   😃 Sou a Kayla!<br>
+  👩‍💻 Desenvolvedora Back-end e low-code;
   🖥️ Cursando Análise e Desenvolvimento de Sistemas (1º semestre);<br>
-  💼 Estou em transição de carreira, mas já atuei com Planejamento Financeiro, 
-  Controladoria e Negócios;<br>
+  💼 Já atuei com Planejamento Financeiro, Controladoria e Negócios;<br>
 
   Interesses:<br>
 
@@ -18,9 +18,9 @@
 **About me:**<br>
 
   😃 I'm Kayla!<br>
+  👩‍💻 Back-end developer and low-code developer;
   🖥️ Studying Analisys and Systems Development (1st semester);<br>
-  💼 I'm in career transition, but I already worked with Financial Planning, <br>
-  Controllership and Business;<br>
+  💼 I already worked with Financial Planning, Controllership and Business;<br>
   
  Interestings:<br>
 
