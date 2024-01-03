@@ -4,7 +4,7 @@
 
   😃 Sou a Kayla!<br>
   👩‍💻 Desenvolvedora Back-end e low-code;<br>
-  🖥️ Cursando Análise e Desenvolvimento de Sistemas (1º semestre);<br>
+  🖥️ Cursando Análise e Desenvolvimento de Sistemas (2º semestre);<br>
   💼 Já atuei com Planejamento Financeiro, Controladoria e Negócios;<br>
 
   Interesses:<br>
