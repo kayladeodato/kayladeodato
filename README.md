@@ -19,7 +19,7 @@
 
   😃 I'm Kayla!<br>
   👩‍💻 Back-end developer and low-code developer;<br>
-  🖥️ Studying Analisys and Systems Development (1st semester);<br>
+  🖥️ Studying Analisys and Systems Development (2nd semester);<br>
   💼 I already worked with Financial Planning, Controllership and Business;<br>
   
  Interestings:<br>
