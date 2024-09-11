@@ -4,14 +4,8 @@
 
   😃 Sou a Kayla!<br>
   👩‍💻 Desenvolvedora Back-end e low-code;<br>
-  🖥️ Cursando Análise e Desenvolvimento de Sistemas (3/5);<br>
+  🖥️ Cursando Análise e Desenvolvimento de Sistemas;<br>
   💼 Já atuei com Planejamento Financeiro, Controladoria e Negócios;<br>
-
-  Interesses:<br>
-
-  📖 Adoro ler, principalmente leituras nada óbvias e que me tiram da zona de conforto;<br>
-  📺 Minhas séries preferidas são: The Office (US), Breaking Bad, The Big Bang Theory e Dark;<br>
-  🐈 Tenho dois gatos (Elis e Chico), mas se pudesse eu tinha mais 30! hehe;<br>
 
 ------------
 
@@ -19,14 +13,9 @@
 
   😃 I'm Kayla!<br>
   👩‍💻 Back-end developer and low-code developer;<br>
-  🖥️ Studying Analisys and Systems Development (2nd semester);<br>
+  🖥️ Studying Analisys and Systems Development;<br>
   💼 I already worked with Financial Planning, Controllership and Business;<br>
-  
- Interestings:<br>
-
-  📖 I enjoy reading, mostly non-obvious readings that take me out of my comfort zone;<br>
-  📺 My favorite series are: The Office (US), Breaking Bad, The Big Bang Theory and Dark;<br>
-  🐈 I have two cats (Elis e Chico), but if I could, I would've a looot!<br>
+ 
   
   Tecnologias:
   
