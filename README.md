@@ -12,7 +12,7 @@
 **About me:**<br>
 
   😃 I'm Kayla!<br>
-  👩‍💻 Back-end developer and low-code developer;<br>
+  👩‍💻 Back-end and low-code developer;<br>
   🖥️ Studying Analisys and Systems Development;<br>
   💼 I already worked with Financial Planning, Controllership and Business;<br>
  
