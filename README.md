@@ -4,6 +4,7 @@
 
   😃 Sou a Kayla!<br>
   👩‍💻 Desenvolvedora Back-end e low-code;<br>
+  ⭕ Certificação Associate Reactive OutSystems 11 e OutSystems Developer Cloud;<br>
   🖥️ Cursando Análise e Desenvolvimento de Sistemas;<br>
   💼 8 anos de experiência com Planejamento Financeiro, Controladoria e Negócios;<br>
 
@@ -13,6 +14,7 @@
 
   😃 I'm Kayla!<br>
   👩‍💻 Back-end and low-code developer;<br>
+  ⭕ OutSystems 11 Associate Reactive and OutSystems Developer Cloud Certification;<br>
   🖥️ Studying Analisys and Systems Development;<br>
   💼 8 years of experience with Financial Planning, Controllership and Business;<br>
  
