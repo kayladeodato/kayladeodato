@@ -5,7 +5,7 @@
   😃 Sou a Kayla!<br>
   👩‍💻 Desenvolvedora Back-end e low-code;<br>
   🖥️ Cursando Análise e Desenvolvimento de Sistemas;<br>
-  💼 Já atuei com Planejamento Financeiro, Controladoria e Negócios;<br>
+  💼 8 anos de experiência com Planejamento Financeiro, Controladoria e Negócios;<br>
 
 ------------
 
@@ -14,7 +14,7 @@
   😃 I'm Kayla!<br>
   👩‍💻 Back-end and low-code developer;<br>
   🖥️ Studying Analisys and Systems Development;<br>
-  💼 I already worked with Financial Planning, Controllership and Business;<br>
+  💼 8 years of experience with Financial Planning, Controllership and Business;<br>
  
   
   Tecnologias:
