@@ -1,7 +1,7 @@
 ## 😃 Sobre mim
 [PT]<br>
   👩‍💻 Desenvolvedora Back-end e low-code;<br>
-  ⭕ Certificação Outsystems: Associate Reactive OutSystems 11, OutSystems Developer Cloud e Mobile Developer Specialization;<br>
+  ⭕ Certificações Outsystems: Associate Reactive OutSystems 11, OutSystems Developer Cloud e Mobile Developer Specialization;<br>
   🖥️ Tecnóloga em Análise e Desenvolvimento de Sistemas e Bacharelado em Ciências Contábeis;<br>
   💼 8 anos de experiência com Planejamento Financeiro, Controladoria e Negócios;<br>
 
