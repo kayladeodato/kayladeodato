@@ -1,4 +1,4 @@
-## 😃 Sobre mim
+## 😃 Sobre mim / About me
 [PT]<br>
   👩‍💻 Desenvolvedora Back-end e low-code;<br>
   ⭕ Certificações Outsystems: Associate Reactive OutSystems 11, OutSystems Developer Cloud e Mobile Developer Specialization;<br>
@@ -13,7 +13,7 @@
  
 ---
 
-  ## 🛠️ Tecnologias & Ferramentas
+  ## 🛠️ Tecnologias & Ferramentas / Tecnologies and frameworks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo / Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayladeodato/)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=githubpages&logoColor=white)](https://kayladeodato.github.io/site-portfolio/)
